@@ -1,0 +1,26 @@
+html{
+  
+    border: 25px solid gray;
+    width: auto;
+    height: auto;
+    
+    font-family: arial;  
+
+}
+body{
+    text-align: center;
+    
+}
+p{
+    margin-left: 33%;
+    margin-right: 33%;
+}
+.datos{
+    
+    margin-bottom: -2px;
+    font-size: 19px;
+}
+.boton{
+    margin-top: 15px;
+    
+}

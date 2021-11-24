@@ -1,0 +1,26 @@
+/* Estilo para modelo de caja*/
+.linea1{
+    font-family: fantasy;
+    font-size: 20px;
+    text-align: center;
+    border: blue;
+    border-width: 10px;
+    border-style:double;
+    width: 30%;
+    margin-left: 40%;
+    margin-top: 10%;
+    margin-right: 40%;
+    margin-bottom: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.linea2{
+    border: 5px double green;
+    width: 50%;
+    text-align: right;
+    margin-left: 250px;
+    padding-right: 50%;
+
+
+}

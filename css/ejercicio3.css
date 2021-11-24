@@ -1,0 +1,25 @@
+/*esta es una hoja de estilo¨*/
+body{
+    text-align: center;
+    border: 40px solid grey;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+p{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+input {
+    font-size: 1.2em;
+}
+label{
+    font-size: 1.2em;
+}
+#boton{
+    margin:20px;
+    background-color: gray;
+    color: white;
+    height: 50px;
+    width: 100px;
+    font-size: 1.2em;
+    border-radius: 15px;
+}

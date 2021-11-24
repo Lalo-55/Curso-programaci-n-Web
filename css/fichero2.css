@@ -1,0 +1,23 @@
+/*hoja de estilo para fondos*/
+body{
+    background-color: lightcyan;
+    /*background: url(../imagenes/dragonball.jpg);*/
+}
+div{
+    background-color: #6699ff;
+    border-color: black;
+    border-width: 2px;
+    border-style: dotted;
+
+}
+span{
+    background:#ffe6f9 ;
+    border: 5px solid blue;
+}
+p{
+    color: blue;
+    
+}
+div p{
+    color:lightcoral;
+}

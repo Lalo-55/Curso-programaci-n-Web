@@ -1,0 +1,15 @@
+.capa1{
+    color: darkcyan;
+}
+
+.capa2{
+    color: chocolate;
+    border: 3px gray solid;
+}
+
+#parrafo1{
+    color: deeppink;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+}
